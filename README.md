@@ -1,6 +1,6 @@
 # ttem_in_p223
 
-A tTEM configuration for P223. 
+A tTEM configuration for P223
 
 Notes:
 - Beowulf and Leroi are interchangeable for the layered earth part and given beowulf has no forward only mode it is easier to use leroi
