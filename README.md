@@ -9,6 +9,7 @@ Notes:
 - The sirotem example can be run by running run.sh in test_01
 - A sirotem setup as used by wiglaf and leroi is in background/sirotem_in_wiglaf
 - A tTEM specification is in backgorund/tTEM_Details.txt
+  - tTEM as per specs file appears to be mdoelle with transmitter loop and a dipole receiver
 
 Next steps:
 - Migrate the current setup in test_01 from one for a Sirotem system to a tTEM system
